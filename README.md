@@ -11,3 +11,6 @@ Stash: https://raw.githubusercontent.com/43935353/wloc/refs/heads/main/modules/w
 Shadowrocket(小火箭): https://raw.githubusercontent.com/43935353/wloc/refs/heads/main/modules/wloc.module
 
 Egern 可直接使用 Surge 模块 Stash 请直接订阅上面的 .stoverride，无需用 Script Hub 转换
+
+定位网页地址
+https://wloc.ssgo.eu.cc/
