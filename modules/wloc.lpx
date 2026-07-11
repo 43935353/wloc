@@ -3,7 +3,7 @@
 #!icon=https://raw.githubusercontent.com/43935353/wloc/refs/heads/main/wloc.jpg
 #!author=43935353 Rewrite
 #!homepage=https://github.com/43935353/wloc
-#!openUrl=https://wloc-pages.pages.dev/
+#!openUrl=https://wloc.ssgo.eu.cc/
 
 [Argument]
 longitude = input, "113.94114", tag=经度(在线选点优先)
